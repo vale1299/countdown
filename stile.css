@@ -8,8 +8,8 @@ h2 {
 
 .titolo {
     color: rgb(255, 255, 255);
-    margin-top: 70px;
-    font-size: 70px;
+    margin-top: 50px;
+    font-size: 65px;
     font-weight: lighter;
     margin-bottom: 22px;
     text-align: center;
@@ -27,12 +27,12 @@ strong {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-transform: uppercase;
     float: left;
-    margin-left: 130px;
+    margin-left: 50px;
     text-align: center;
     padding: 10px;
     margin-right: 10px;
     color: rgb(48, 211, 143);
-    font-size: 12px;
+    font-size: 10px;
 }
 .hours {
     border-top: 2px solid #FFF;
@@ -43,7 +43,7 @@ strong {
     padding: 10px;
     margin-right: 10px;
     color: rgb(48, 211, 143);
-    font-size: 12px;
+    font-size: 10px;
 }
 .minutes {
     border-top: 2px solid #FFF;
@@ -54,7 +54,7 @@ strong {
     padding: 10px;
     margin-right: 10px;
     color: rgb(48, 211, 143);
-    font-size: 12px;
+    font-size: 10px;
 }
 .seconds {
     border-top: 2px solid rgba(10, 46, 94, 0);
@@ -64,11 +64,11 @@ strong {
     text-align: center;
     padding: 10px;
     color: rgb(48, 211, 143);
-    font-size: 12px;
+    font-size: 10px;
 }
 
 .numeri {
-    font-size: 60px;
+    font-size: 65px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: #FFF;
     padding: 10px;
