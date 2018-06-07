@@ -1,0 +1,95 @@
+body {
+    background-color: rgba(10, 46, 94, 0.863);
+}
+
+h2 {
+    font-weight: 320;
+}
+
+.titolo {
+    color: rgb(255, 255, 255);
+    margin-top: 100px;
+    font-size: 70px;
+    font-weight: lighter;
+    margin-bottom: 23px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+}
+strong {
+    font-weight: 500;
+    color: rgb(48, 211, 143);
+    text-transform: uppercase;
+}
+
+.days {
+    border-top: 2px solid rgba(10, 46, 94, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    float: left;
+    margin-left: 172px;
+    text-align: center;
+    padding: 10px;
+    margin-right: 10px;
+    color: rgb(48, 211, 143);
+}
+.hours {
+    border-top: 2px solid #FFF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    float: left;
+    text-align: center;
+    padding: 10px;
+    margin-right: 10px;
+    color: rgb(48, 211, 143);
+}
+.minutes {
+    border-top: 2px solid #FFF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    float: left;
+    text-align: center;
+    padding: 10px;
+    margin-right: 10px;
+    color: rgb(48, 211, 143);
+}
+.seconds {
+    border-top: 2px solid rgba(10, 46, 94, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    float: left;
+    text-align: center;
+    padding: 10px;
+    color: rgb(48, 211, 143);
+}
+
+.numeri {
+    font-size: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #FFF;
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid #fff;
+}
+
+#secondi {
+    color: rgb(241, 41, 41);
+}
+
+#fine {
+    color: rgb(48, 211, 143);
+    text-align: center;
+    line-height: 170px;
+    font-size: 80px;
+    font-weight: 900;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#nome {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    line-height: 170px;
+    font-size: 80px;
+    font-weight: 900;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
